@@ -1,5 +1,6 @@
 //versus ggle ==>
 // MODIF TEST de git from asus + st3 camera_ocr vers github/camera_ocr
+// Modif from st3 on temp44/../CameraPreview
 package com.datumdroid.android.ocr.simple;
 
 import java.io.IOException;
